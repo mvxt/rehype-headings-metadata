@@ -1,0 +1,13 @@
+{
+  "name": "rehype-headings-data",
+  "version": "1.0.0",
+  "description": "A unified/rehype plugin that parses headings and their attributes and exposes them as metadata",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/mvxt/remark-headings-metadata",
+  "author": "Michael Vinh Xuan Thanh",
+  "license": "Apache 2.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
